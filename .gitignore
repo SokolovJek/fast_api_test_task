@@ -1,0 +1,9 @@
+__pycache__
+backend/.env
+env
+test_db.db
+help.txt
+.idea
+examples.py
+backend/test_db.d
+backend/.pytest_cache

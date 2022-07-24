@@ -1,0 +1,33 @@
+fastapi
+uvicorn
+
+# шаблонизатор
+jinja2
+
+# для статики
+aiofiles
+
+# для БД
+sqlalchemy
+psycopg2
+
+
+# для загрузки переменных из окружения .env
+python-dotenv
+
+# для валидации данных
+pydantic[email]
+
+
+# хеширование паролей
+passlib[bcrypt]
+
+# для тестирования
+pytest
+requests
+
+# для создания JWT токена
+python-jose
+
+# для доступа к данным формы(login/...)
+python-multipart
