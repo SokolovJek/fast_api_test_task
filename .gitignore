@@ -1,5 +1,4 @@
 __pycache__
-backend/.env
 env
 test_db.db
 help.txt
